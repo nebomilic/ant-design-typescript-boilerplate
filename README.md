@@ -1,5 +1,20 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Ant Design + TypeScript Boilerplate
+
+Create React App was customized for usage with:
+
+- [Ant Design System](https://ant.design/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [Css Modules](https://github.com/css-modules/css-modules)
+
+These resources were used as a reference:
+
+- [How to Set Up Create React App with TypeScript, Ant Design, LESS, CSS Modules, and ESLint](https://aleksandrhovhannisyan.github.io/blog/dev/how-to-set-up-react-typescript-ant-design-less-css-modules-and-eslint/)
+- [Ant Design - Use in Typescript](https://ant.design/docs/react/use-in-typescript)
+
+Ant theme can be customized by editing `src/theme.less`
+
 ## Available Scripts
 
 In the project directory, you can run:
